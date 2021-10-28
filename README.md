@@ -1,8 +1,8 @@
 # Hi There, I'm Douglas Fonseca 👋
 
-- 🧙‍♂️ I’m currently working as Mobile Developer Tellus
-- 👨‍💻 I’m learning about development android java e kotlin
-- 🌱 hobbies games, movies, series, comics
+- 🧙‍♂️ I’m currently working as Mobile Developer Tellus.
+- 👨‍💻 I’m learning about development android java e kotlin.
+- 🌱 hobbies games, movies, series, comics.
 - 💬 Ask me about `[C#, React Native, TypeScript, JavaScript, Android, Java, Kotlin, Git, Figma]` 
 
 ![Douglas's github stats](https://github-readme-stats.vercel.app/api?username=douglasfonseca22&show_icons=true&theme=midnight-purple)
